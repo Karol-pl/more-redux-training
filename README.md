@@ -1,3 +1,9 @@
+# React Redux training:
+
+- JSONplaceholder API to show posts and users
+- Redux with Redux-thunk to create store and connect it with API
+- \_lodash to optimize fetching data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
